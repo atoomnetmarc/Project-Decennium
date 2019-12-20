@@ -1,0 +1,11 @@
+(module outline (layer F.Cu) (tedit 0)
+  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 41.353269 49.819936) (xy -41.353269 49.819936) (xy -41.353269 -49.520471) (xy -41.081029 -49.520471)
+    (xy -41.081029 49.547696) (xy 41.081028 49.547696) (xy 41.081028 -49.520471) (xy -41.081029 -49.520471)
+    (xy -41.353269 -49.520471) (xy -41.353269 -49.792711) (xy 41.353269 -49.792711) (xy 41.353269 49.819936)) (layer Eco1.User) (width 0.01))
+)
