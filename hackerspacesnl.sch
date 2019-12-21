@@ -147,7 +147,7 @@ L hackerspacesnl-rescue:Red-GreenLED-parts D4
 U 1 1 5DF319ED
 P 1900 4350
 F 0 "D4" V 1575 4350 50  0000 C CNN
-F 1 "Red-GreenLED" V 1666 4350 50  0000 C CNN
+F 1 "Red-GreenLED-parts" V 1666 4350 50  0000 C CNN
 F 2 "hsnl:LED_0805_multicolor" V 1550 4500 50  0001 C CNN
 F 3 "" V 1550 4500 50  0001 C CNN
 	1    1900 4350
