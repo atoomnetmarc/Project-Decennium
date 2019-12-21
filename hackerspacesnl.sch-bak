@@ -1086,25 +1086,25 @@ F 3 "" H 6500 1600 50  0001 C CNN
 	1    6500 1600
 	1    0    0    -1  
 $EndComp
-Text GLabel 7650 4450 3    50   Input ~ 0
+Text GLabel 7800 4400 3    50   Input ~ 0
 led_r1
-Text GLabel 7800 4450 3    50   Input ~ 0
+Text GLabel 8500 4400 3    50   Input ~ 0
 led_r2
-Text GLabel 7950 4450 3    50   Input ~ 0
+Text GLabel 8600 4400 3    50   Input ~ 0
 led_r3
-Text GLabel 8050 4450 3    50   Input ~ 0
+Text GLabel 9100 3850 2    50   Input ~ 0
 led_r4
-Text GLabel 8150 4450 3    50   Input ~ 0
+Text GLabel 9100 2850 2    50   Input ~ 0
 led_c0
-Text GLabel 8250 4450 3    50   Input ~ 0
+Text GLabel 9100 3150 2    50   Input ~ 0
 led_c1
-Text GLabel 8350 4450 3    50   Input ~ 0
+Text GLabel 9100 3350 2    50   Input ~ 0
 led_c2
-Text GLabel 8500 4450 3    50   Input ~ 0
+Text GLabel 9100 3450 2    50   Input ~ 0
 led_c3
-Text GLabel 9100 4350 2    50   Input ~ 0
+Text GLabel 9100 3550 2    50   Input ~ 0
 led_c4
-Text GLabel 9100 4500 2    50   Input ~ 0
+Text GLabel 9100 3650 2    50   Input ~ 0
 led_c5
 NoConn ~ 7350 2950
 NoConn ~ 7350 2850
@@ -1256,7 +1256,7 @@ U 1 1 5DE15E55
 P 8150 3300
 F 0 "U2" H 8125 4315 50  0000 C CNN
 F 1 "ESP32-wroom-32" H 8125 4224 50  0000 C CNN
-F 2 "" H 7750 3350 50  0001 C CNN
+F 2 "RF_Module:ESP32-WROOM-32" H 7750 3350 50  0001 C CNN
 F 3 "" H 7750 3350 50  0001 C CNN
 	1    8150 3300
 	1    0    0    -1  
@@ -1337,4 +1337,24 @@ Wire Wire Line
 Connection ~ 9600 3950
 Wire Wire Line
 	9600 3500 9600 3550
+Wire Wire Line
+	9100 2850 8900 2850
+Wire Wire Line
+	9100 3150 8900 3150
+Wire Wire Line
+	9100 3350 8900 3350
+Wire Wire Line
+	8900 3450 9100 3450
+Wire Wire Line
+	9100 3550 8900 3550
+Wire Wire Line
+	8900 3650 9100 3650
+Wire Wire Line
+	9100 3850 8900 3850
+Wire Wire Line
+	8600 4400 8600 4250
+Wire Wire Line
+	8500 4400 8500 4250
+Wire Wire Line
+	7800 4400 7800 4250
 $EndSCHEMATC

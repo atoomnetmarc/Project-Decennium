@@ -1086,13 +1086,13 @@ F 3 "" H 6500 1600 50  0001 C CNN
 	1    6500 1600
 	1    0    0    -1  
 $EndComp
-Text GLabel 7150 3150 0    50   Input ~ 0
+Text GLabel 7800 4400 3    50   Input ~ 0
 led_r1
-Text GLabel 7150 3250 0    50   Input ~ 0
+Text GLabel 8500 4400 3    50   Input ~ 0
 led_r2
-Text GLabel 7150 3350 0    50   Input ~ 0
+Text GLabel 8600 4400 3    50   Input ~ 0
 led_r3
-Text GLabel 7150 3450 0    50   Input ~ 0
+Text GLabel 9100 3850 2    50   Input ~ 0
 led_r4
 Text GLabel 9100 2850 2    50   Input ~ 0
 led_c0
@@ -1338,14 +1338,6 @@ Connection ~ 9600 3950
 Wire Wire Line
 	9600 3500 9600 3550
 Wire Wire Line
-	7150 3150 7350 3150
-Wire Wire Line
-	7350 3250 7150 3250
-Wire Wire Line
-	7150 3350 7350 3350
-Wire Wire Line
-	7350 3450 7150 3450
-Wire Wire Line
 	9100 2850 8900 2850
 Wire Wire Line
 	9100 3150 8900 3150
@@ -1357,4 +1349,16 @@ Wire Wire Line
 	9100 3550 8900 3550
 Wire Wire Line
 	8900 3650 9100 3650
+Wire Wire Line
+	9100 3850 8900 3850
+Wire Wire Line
+	8600 4400 8600 4250
+Wire Wire Line
+	8500 4400 8500 4250
+Wire Wire Line
+	7800 4400 7800 4250
+Text GLabel 7200 3850 0    50   Input ~ 0
+led_r0
+Wire Wire Line
+	7200 3850 7350 3850
 $EndSCHEMATC
