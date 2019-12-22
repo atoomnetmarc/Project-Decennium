@@ -1076,25 +1076,25 @@ F 3 "" H 6500 1600 50  0001 C CNN
 	1    6500 1600
 	1    0    0    -1  
 $EndComp
-Text GLabel 7800 4400 3    50   Input ~ 0
+Text GLabel 10200 4550 2    50   Input ~ 0
 led_r1
-Text GLabel 8850 4500 3    50   Input ~ 0
+Text GLabel 10200 4700 2    50   Input ~ 0
 led_r2
-Text GLabel 9000 4500 3    50   Input ~ 0
+Text GLabel 10200 4850 2    50   Input ~ 0
 led_r3
-Text GLabel 9100 3850 2    50   Input ~ 0
+Text GLabel 10200 5000 2    50   Input ~ 0
 led_r4
-Text GLabel 9100 2850 2    50   Input ~ 0
+Text GLabel 10600 4400 2    50   Input ~ 0
 led_c0
-Text GLabel 9100 3150 2    50   Input ~ 0
+Text GLabel 10600 4550 2    50   Input ~ 0
 led_c1
-Text GLabel 9100 3350 2    50   Input ~ 0
+Text GLabel 10600 4700 2    50   Input ~ 0
 led_c2
-Text GLabel 9100 3450 2    50   Input ~ 0
+Text GLabel 10600 4850 2    50   Input ~ 0
 led_c3
-Text GLabel 9100 3550 2    50   Input ~ 0
+Text GLabel 10600 5000 2    50   Input ~ 0
 led_c4
-Text GLabel 9100 3650 2    50   Input ~ 0
+Text GLabel 10600 5150 2    50   Input ~ 0
 led_c5
 NoConn ~ 7350 2950
 NoConn ~ 7350 2850
@@ -1327,29 +1327,13 @@ Wire Wire Line
 Connection ~ 9600 3950
 Wire Wire Line
 	9600 3500 9600 3550
-Wire Wire Line
-	9100 2850 8900 2850
-Wire Wire Line
-	9100 3150 8900 3150
-Wire Wire Line
-	9100 3350 8900 3350
-Wire Wire Line
-	8900 3450 9100 3450
-Wire Wire Line
-	9100 3550 8900 3550
-Wire Wire Line
-	8900 3650 9100 3650
-Wire Wire Line
-	9100 3850 8900 3850
-Wire Wire Line
-	7800 4400 7800 4250
-Text GLabel 7050 3650 0    50   Input ~ 0
+Text GLabel 10200 4400 2    50   Input ~ 0
 led_r0
 $Comp
-L Device:R R?
+L Device:R R19
 U 1 1 5E08F19E
 P 7250 4100
-F 0 "R?" H 7320 4146 50  0000 L CNN
+F 0 "R19" H 7320 4146 50  0000 L CNN
 F 1 "10K" H 7320 4055 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 7180 4100 50  0001 C CNN
 F 3 "~" H 7250 4100 50  0001 C CNN
@@ -1357,10 +1341,10 @@ F 3 "~" H 7250 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5E08FA41
 P 7250 4350
-F 0 "#PWR?" H 7250 4100 50  0001 C CNN
+F 0 "#PWR0101" H 7250 4100 50  0001 C CNN
 F 1 "GND" H 7255 4177 50  0000 C CNN
 F 2 "" H 7250 4350 50  0001 C CNN
 F 3 "" H 7250 4350 50  0001 C CNN
@@ -1374,10 +1358,10 @@ Wire Wire Line
 Wire Wire Line
 	7250 3850 7350 3850
 $Comp
-L Device:R R?
+L Device:R R21
 U 1 1 5E0D9D1B
 P 8600 4500
-F 0 "R?" H 8670 4546 50  0000 L CNN
+F 0 "R21" H 8670 4546 50  0000 L CNN
 F 1 "10K" H 8670 4455 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 8530 4500 50  0001 C CNN
 F 3 "~" H 8600 4500 50  0001 C CNN
@@ -1385,10 +1369,10 @@ F 3 "~" H 8600 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R20
 U 1 1 5E0DA0FC
 P 8500 4500
-F 0 "R?" H 8570 4546 50  0000 L CNN
+F 0 "R20" H 8570 4546 50  0000 L CNN
 F 1 "10K" H 8570 4455 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 8430 4500 50  0001 C CNN
 F 3 "~" H 8500 4500 50  0001 C CNN
@@ -1396,10 +1380,10 @@ F 3 "~" H 8500 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0102
 U 1 1 5E0DA27C
 P 8600 4750
-F 0 "#PWR?" H 8600 4500 50  0001 C CNN
+F 0 "#PWR0102" H 8600 4500 50  0001 C CNN
 F 1 "GND" H 8605 4577 50  0000 C CNN
 F 2 "" H 8600 4750 50  0001 C CNN
 F 3 "" H 8600 4750 50  0001 C CNN
