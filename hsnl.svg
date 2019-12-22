@@ -10,70 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="130mm"
-   height="160mm"
-   viewBox="0 0 130 160"
-   version="1.1"
+   sodipodi:docname="hsnl.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    id="svg1996"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="hsnl.svg">
+   version="1.1"
+   viewBox="0 0 130.00002 160"
+   height="160mm"
+   width="130.00002mm">
   <defs
-     id="defs1990">
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-
-	
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-</defs>
+     id="defs1990" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -81,17 +26,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="224.46884"
-     inkscape:cy="309.18219"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="245.44195"
+     inkscape:cy="500.40332"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1386"
+     inkscape:current-layer="g1880"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
-     inkscape:window-y="31"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       id="grid1778"
+       units="mm"
+       type="xygrid"
+       empspacing="1"
+       spacingy="2.54"
+       spacingx="2.54"
+       originx="-2.7258676"
+       originy="138.42121" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1993">
     <rdf:RDF>
@@ -100,19 +60,125 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <style
+     id="style2693"
+     type="text/css">
+	.st0{fill:#C6ECFF;}
+	.st1{fill:#FEFEE9;}
+	.st2{fill:#C12737;}
+	.st3{fill:#E0E0E0;}
+	.st4{fill:none;stroke:#0978AB;stroke-width:2.5;}
+	.st5{fill:none;stroke:#0978AB;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:3.8637;}
+	.st6{fill:none;stroke:#0978AB;stroke-width:1.4995;stroke-linejoin:round;stroke-miterlimit:3.8637;}
+	.st7{fill:none;stroke:#646464;stroke-width:1.1339;stroke-linejoin:round;stroke-miterlimit:3.8637;}
+	.st8{fill:none;stroke:#646464;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:3.8832;}
+	.st9{fill:none;stroke:#646464;stroke-width:2.9991;stroke-linejoin:round;stroke-miterlimit:3.8832;}
+</style>
   <g
-     inkscape:label="silk"
+     id="g1880"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-137)"
-     style="display:inline">
+     inkscape:label="Edge.Cuts"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)">
+    <path
+       id="rect2944"
+       d="M10.94464 -1.3293068L124.5071 -1.3293068L124.918401586 -1.31896853553L125.324166907 -1.28828279089L125.723902744 -1.23774313924L126.117115879 -1.16784315371L126.503313094 -1.07907640747L126.882001169 -0.971936473657L127.252686888 -0.84691692543L127.614877031 -0.704511335937L127.96807838 -0.545213278329L128.311797717 -0.369516325757L128.645541823 -0.17791405137L128.96881748 0.0290999716797L129.28113147 0.251032170242L129.581990574 0.487388971167L129.870901573 0.737676801303L130.14737125 1.0014020875L130.410906386 1.27807125661L130.661013762 1.56719073547L130.897200161 1.86826695095L131.118972363 2.18080632988L131.325837151 2.50431529912L131.517301306 2.83830028552L131.69287161 3.18226771593L131.852054844 3.53572401719L131.99435779 3.89817561615L132.119287229 4.26912893967L132.226349944 4.6480904146L132.315052715 5.03456646777L132.384902325 5.42806352605L132.435405554 5.82808801628L132.466069185 6.23414636532L132.4764 6.645745L132.4764 150.19668L132.466069185 150.608278744L132.435405554 151.014337178L132.384902325 151.41436173L132.315052715 151.807858828L132.226349944 152.194334901L132.119287229 152.573296377L131.99435779 152.944249684L131.852054844 153.30670125L131.69287161 153.660157504L131.517301306 154.004124873L131.325837151 154.338109786L131.118972363 154.661618672L130.897200161 154.974157958L130.661013762 155.275234072L130.410906386 155.564353444L130.14737125 155.8410225L129.870901573 156.10474767L129.581990574 156.355035381L129.28113147 156.591392062L128.96881748 156.813324141L128.645541823 157.020338046L128.311797717 157.211940205L127.96807838 157.387637047L127.614877031 157.546935L127.252686888 157.689340492L126.882001169 157.814359951L126.503313094 157.921499806L126.117115879 158.010266484L125.723902744 158.080166415L125.324166907 158.130706025L124.918401586 158.161391744L124.5071 158.17173L10.94464 158.17173L10.5333385175 158.161391744L10.1275733187 158.130706025L9.72783762064 158.080166415L9.33462464023 158.010266484L8.94842759445 157.921499806L8.56973970024 157.814359951L8.19905417457 157.689340492L7.83686423438 157.546935L7.48366309662 157.387637047L7.13994397827 157.211940205L6.80620009627 157.020338046L6.48292466758 156.813324141L6.17061090915 156.591392062L5.86975203794 156.355035381L5.5808412709 156.10474767L5.304371825 155.8410225L5.04083691718 155.564353444L4.7907297644 155.275234072L4.55454358362 154.974157958L4.3327715918 154.661618672L4.12590700588 154.338109786L3.93444304282 154.004124873L3.75887291959 153.660157504L3.59968985312 153.30670125L3.45738706039 152.944249684L3.33245775835 152.573296377L3.22539516395 152.194334901L3.13669249414 151.807858828L3.06684296589 151.41436173L3.01633979614 151.014337178L2.98567620186 150.608278744L2.9753454 150.19668L2.9753454 6.645745L2.98567620186 6.23414636532L3.01633979614 5.82808801628L3.06684296589 5.42806352605L3.13669249414 5.03456646777L3.22539516395 4.6480904146L3.33245775835 4.26912893967L3.45738706039 3.89817561615L3.59968985312 3.53572401719L3.75887291959 3.18226771593L3.93444304282 2.83830028552L4.12590700588 2.50431529912L4.3327715918 2.18080632988L4.55454358362 1.86826695095L4.7907297644 1.56719073547L5.04083691718 1.27807125661L5.304371825 1.0014020875L5.5808412709 0.737676801303L5.86975203794 0.487388971167L6.17061090915 0.251032170242L6.48292466758 0.0290999716797L6.80620009627 -0.17791405137L7.13994397827 -0.369516325757L7.48366309662 -0.545213278329L7.83686423438 -0.704511335938L8.19905417457 -0.84691692543L8.56973970024 -0.971936473657L8.94842759445 -1.07907640747L9.33462464023 -1.16784315371L9.72783762064 -1.23774313924L10.1275733187 -1.28828279089L10.5333385175 -1.31896853553L10.94464 -1.3293068L10.94464 -1.3293068"
+       style="display:inline;opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     id="g1882"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Cu-disabled"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)" />
+  <g
+     id="g1884"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Mask-disabled"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)" />
+  <g
+     id="g1886"
+     inkscape:groupmode="layer"
+     inkscape:label="B.Silk-disabled"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)" />
+  <g
+     id="g1888"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Cu"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)">
+    <text
+       id="text5532"
+       y="11.408698"
+       x="31.788876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.8692863px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.07173215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.07173215px"
+         y="11.408698"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5544">Hackerspaces in Nederland</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.07173215px"
+         y="14.995306"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5828">2010-2019</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#808000;stroke-width:0.07173215px"
+         y="18.581913"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5830">het eerste decennium</tspan></text>
+  </g>
+  <g
+     id="g1890"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Mask"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)">
+    <text
+       id="text5532-3"
+       y="11.408698"
+       x="31.788876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.8692863px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.07173215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.07173215px"
+         y="11.408698"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5544-6">Hackerspaces in Nederland</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.07173215px"
+         y="14.995306"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5828-7">2010-2019</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.07173215px"
+         y="18.581913"
+         x="31.788876"
+         sodipodi:role="line"
+         id="tspan5830-5">het eerste decennium</tspan></text>
+  </g>
+  <g
+     id="g1892"
+     inkscape:groupmode="layer"
+     inkscape:label="F.Silk"
+     style="display:inline"
+     transform="translate(-2.7258676,1.5787846)">
     <g
+       style="display:inline"
        id="g5512"
-       transform="translate(134.70327,-7.1095157)">
+       transform="translate(137.69669,-145.98041)">
       <path
          inkscape:connector-curvature="0"
          style="display:inline;fill:none;fill-opacity:0.48022599;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078"
@@ -601,56 +667,10 @@
          y="0"
          x="0" />
     </g>
-    <text
-       transform="translate(0,137)"
-       id="text5532"
-       y="13.279585"
-       x="28.795458"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.8692863px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07173215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.07173215px"
-         y="13.279585"
-         x="28.795458"
-         sodipodi:role="line"
-         id="tspan5544">Hackerspaces in Nederland</tspan><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.07173215px"
-         y="16.894213"
-         x="28.795458"
-         sodipodi:role="line"
-         id="tspan5828">2010-2019</tspan><tspan
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;text-anchor:middle;stroke-width:0.07173215px"
-         y="20.508841"
-         x="28.795458"
-         sodipodi:role="line"
-         id="tspan5830">het eerste decennium</tspan></text>
   </g>
   <g
+     id="g1894"
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="edge"
-     style="display:none">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5514"
-       width="129.83482"
-       height="159.88393"
-       x="0.082588196"
-       y="0.058041256"
-       rx="8.5044641"
-       ry="8.5044641" />
-  </g>
-  <style
-     id="style2693"
-     type="text/css">
-	.st0{fill:#C6ECFF;}
-	.st1{fill:#FEFEE9;}
-	.st2{fill:#C12737;}
-	.st3{fill:#E0E0E0;}
-	.st4{fill:none;stroke:#0978AB;stroke-width:2.5;}
-	.st5{fill:none;stroke:#0978AB;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:3.8637;}
-	.st6{fill:none;stroke:#0978AB;stroke-width:1.4995;stroke-linejoin:round;stroke-miterlimit:3.8637;}
-	.st7{fill:none;stroke:#646464;stroke-width:1.1339;stroke-linejoin:round;stroke-miterlimit:3.8637;}
-	.st8{fill:none;stroke:#646464;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:3.8832;}
-	.st9{fill:none;stroke:#646464;stroke-width:2.9991;stroke-linejoin:round;stroke-miterlimit:3.8832;}
-</style>
+     inkscape:label="Drill"
+     transform="translate(-2.7258676,1.5787846)" />
 </svg>
