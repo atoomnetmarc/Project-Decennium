@@ -1,5 +1,0 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
-"J2","Conn_01x04_Male","PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left",39.867840,-57.179400,270.000000,bottom
-"SW1","SW_Push","SW_SPST_TL3342",50.200640,-56.464600,90.000000,bottom
-"SW2","SW_Push","SW_SPST_TL3342",59.679920,-56.530640,90.000000,bottom
-"U2","ESP32-wroom-32","ESP32-WROOM-32",48.519700,-76.635100,270.000000,bottom
