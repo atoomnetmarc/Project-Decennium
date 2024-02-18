@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hackerspacesnl-rescue")(type "KiCad")(uri "${KIPRJMOD}/hackerspacesnl-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_Module-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/MCU_Module-extra.kicad_sym")(options "")(descr ""))
+  (lib (name "LED-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/LED-extra.kicad_sym")(options "")(descr ""))
+)

@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name hsnl)(type KiCad)(uri ${KIPRJMOD}/hsnl.pretty)(options "")(descr ""))
-)

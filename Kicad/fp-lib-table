@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hsnl")(type "KiCad")(uri "${KIPRJMOD}/hsnl.pretty")(options "")(descr ""))
+  (lib (name "LED_SMD-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/footprints/LED_SMD-extra.pretty")(options "")(descr ""))
+  (lib (name "Module-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/footprints/Module-extra.pretty")(options "")(descr ""))
+)

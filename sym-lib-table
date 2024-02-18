@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name hackerspacesnl-rescue)(type Legacy)(uri ${KIPRJMOD}/hackerspacesnl-rescue.lib)(options "")(descr ""))
-)
