@@ -14,7 +14,7 @@ Solder the PCB.
 
 # Firmware
 
-TODO.
+https://github.com/atoomnetmarc/Project-Decennium-Firmware
 
 # Pics
 
