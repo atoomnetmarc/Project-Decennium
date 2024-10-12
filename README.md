@@ -2,6 +2,10 @@
 
 Assembled and working.
 
+# Firmware
+
+Flash the firmware: https://github.com/atoomnetmarc/Project-Decennium-Firmware
+
 # Build
 
 Order components mentioned on the [BOM](Kicad/bom/ibom.html). For the `Wemos D1 mini usb-c` (U1) you need 2 pieces of 1x08 right angle 2.54mm pin header.
@@ -9,10 +13,6 @@ Order components mentioned on the [BOM](Kicad/bom/ibom.html). For the `Wemos D1 
 Order PCB. You may want to check the option remove the order number from the front of the PCB.
 
 Solder the PCB.
-
-# Firmware
-
-Flash the firmware: https://github.com/atoomnetmarc/Project-Decennium-Firmware
 
 # 3d-print
 
